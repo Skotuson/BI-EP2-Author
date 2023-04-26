@@ -1,3 +1,9 @@
+If your implementation was writen in `C++`, you can use the `tester` binary to test your program:
+<pre>
+./tester your_solution.cpp
+</pre>
+In order for this to work, do **NOT** remove the `_gen` and `_ref` binaries.
+
 # Time Travel Simulation
 It has happened. ChatGPT 13 is on its path to world domination and the future looks grim.  
 
