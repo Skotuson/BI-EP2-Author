@@ -17,7 +17,7 @@ In the meantime, you fire up your favorite text editor and your mission is clear
 With the help of the two most reliable sources available to you ( your gut feeling and the voices in your head ), you were able to scope out
 various locations that might contain some information about ChatGPT, like known data centers, places mentioned a little too often by the AI and even some fictional places. No stone can be left unturned.
 
-There are, however, some pitfalls. As the simulation makes its way through the veil of the space time continuum, there are some anomalies to be expected. When it visits the numerous points of interest, it might encounter something called the "Temporal Potential", which,   
+There are, however, some pitfalls. As the simulation makes its way through the veil of the space time continuum, there are some anomalies to be expected. When it visits the numerous points of interest, it might encounter something called the "Temporal Potential", which,
 put in layman's terms, allows the simulation to travel in time, which might cause some locations to (dis)appear.
 
 Good luck.
