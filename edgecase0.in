@@ -1,0 +1,56 @@
+Strahov Strahov
+1
+Strahov 5
+0
+Earthrealm Edenia
+3
+Earthrealm 2
+Netherrealm 3
+Edenia 5
+3
+Earthrealm Edenia -5 5
+Earthrealm Netherrealm 1 -2
+Netherrealm Edenia 10 -4
+Hogwarts Hogsmeade
+4
+Hogwarts 4
+Hogsmeade 5
+Azkaban 5
+Feldcroft 5
+4
+Hogwarts Hogsmeade -10 5
+Hogwarts Azkaban 10 -5
+Azkaban Feldcroft 10 -5
+Feldcroft Hogwarts 10 -5
+Stormwind Ironforge
+6
+Stormwind 0
+Ironforge -30
+Elwynn-Forest 5
+Darkshire -15
+Stockades -5
+Deadmines -10
+7
+Stormwind Ironforge 10 -5
+Stormwind Elwynn-Forest 10 5
+Elwynn-Forest Darkshire -5 10
+Darkshire Stormwind 10 5
+Stormwind Stockades -10 5
+Stockades Deadmines -10 30
+Deadmines Stormwind 5 5
+Earth Mercury
+6
+Earth 5
+Venus -2
+Mars -10
+Uranus 0
+B612 7
+Mercury 0
+6
+Uranus Mercury 2 1
+Venus Earth 2 -5
+Venus B612 3 3
+B612 Earth -1 -1
+B612 Mars -5 -2
+B612 Venus 4 -4
+HALT

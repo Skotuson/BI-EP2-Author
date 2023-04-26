@@ -1,0 +1,23 @@
+Humpolec Havlickuv-Brod
+4
+Humpolec 50
+Havlickuv-Brod  0
+Pelhrimov 25
+Jihlava 15
+4
+Humpolec Pelhrimov 45 -15
+Pelhrimov Jihlava 60 -20
+Jihlava Havlickuv-Brod 10 -15
+Humpolec Havlickuv-Brod -10 20
+VŠE FIT
+4
+VŠE 0
+FEL  10
+FSv -10
+FIT -25
+4
+VŠE FEL 0 -10
+FEL FSv 10 20
+FSv FIT 5 20
+VŠE FIT -10 30
+HALT
