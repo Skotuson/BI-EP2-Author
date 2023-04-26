@@ -30,7 +30,7 @@ Next line has the number `M` ( number of connections ) and `M` lines in followin
 `<Connection start>` `<Connection end>` `<Connection age>` `<Temporal Potential>`.
 
 The `age` value can be both positive and negative, the former implying that the place exists in your current timeshift, the latter suggesting
-the opposite. 0 is considered to be positive, meaning that something with age 0 does exist in you current timeshift. Your starting timeshift is `0`.  
+the opposite. 0 is considered to be positive, meaning that something with age 0 **DOES** exist in you current timeshift. Your starting timeshift is `0`.  
 The `Temporal Potential` value specifies the timeshift you will undergo by traversing the connection. Connections are bidirectional and have opposite temporal potential, i.e. passing the connection back and forth will return you to your timeshift before traversing.  
 
 Your program should determine whether the path between `s1` and `s2`, given the time conditions, exists.
